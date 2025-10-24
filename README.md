@@ -8,7 +8,7 @@
 
  // Group CYOA with Styles
 
- // We built an adventure game in a website format
+ // We built an adventure game in a website format using HTML and css.
 
  // You can add multiple dates with description.
 
