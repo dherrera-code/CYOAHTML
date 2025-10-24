@@ -1,0 +1,23 @@
+.layout {
+  display: flex;
+  justify-content: space-around;
+  align-items:left;
+}
+.textcontainer1 {
+  font-size: 25px;
+  max-width: 52rem;
+  margin-left: -50px;
+ background-color:#cfa649;
+ opacity: 0.9;
+ position: relative;z-index: 1;
+}
+.image-container1 {
+  max-width: 26rem;
+    max-height: 30rem;
+}
+body {
+  background-image: url('../Pictures/Background1.png');
+    background-size:cover;
+    position: relative;
+    z-index: -1;
+}
