@@ -10,6 +10,4 @@
 
  // We built an adventure game in a website format using HTML and css.
 
- // You can add multiple dates with description.
-
 //Peer Review (Brandon Estrada) - Your guys' project looks well put together. I like the story you guys chose for your project, it was funny seeing the story of Sir Dekoksworth. All the images and links that cycle through your pages work properly. Nice Job!
