@@ -12,4 +12,4 @@
 
  // You can add multiple dates with description.
 
-// Person who Peer Reviewed your assignment
+//Peer Review (Brandon Estrada) - Your guys' project looks well put together. I like the story you guys chose for your project, it was funny seeing the story of Sir Dekoksworth. All the images and links that cycle through your pages work properly. Nice Job!
